@@ -4,7 +4,7 @@
 
 React + Vite + Tailwind CSS Bengali news frontend, built from direct Playwright inspection of mzamin.com. Uses the supplied দিগন্ত নিউজ brand and a transparent logo cutout.
 
-![Diganta News desktop preview](docs/verification/transparent-logo-desktop.png)
+![Digonto News desktop preview](docs/verification/transparent-logo-desktop.png)
 
 ## Run
 
